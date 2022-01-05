@@ -1,7 +1,7 @@
 # Tincy
 Timer for extendable streams, extends your time based on subscriptions or bits donations
 
-![01](./screenshots/01.jpg)
+![01](./screenshots/demo.jpg)
 
 ## Instructions
 * Update your channel name on `./packages/server/src/constants.ts`
